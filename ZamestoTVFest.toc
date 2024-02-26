@@ -1,0 +1,14 @@
+## Interface: 100205
+## Title: ZamestoTV Community Feast
+## Title-ruRU: ZamestoTV Большое пиршество
+## Notes: World Hints for Community Feast event
+## Notes-ruRU: Подсказки для события Большое пиршество
+## Author: Horgul and Dathwada
+## IconTexture: Interface\HELPFRAME\HelpIcon-KnowledgeBase.blp
+## Version: 4.05
+
+db.lua
+VendorRU.lua
+VendorEU.lua
+zamro.lua
+timer.lua
