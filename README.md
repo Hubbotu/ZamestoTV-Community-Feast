@@ -4,10 +4,13 @@ This addon will only show traders, the rest of the actions on the principle of c
 
 V 2.0
 Automatic purchase of items from event merchants
+
 V 3.0
 Added timers for the start of the event and the time of the event
+
 V 4.0
 Added a timer notifying 10 and 5 minutes before the start of the event. The color of the time has been changed, 10 minutes before the start of the event, the time is notified in yellow, 5 minutes in red.
+
 
  
 At the moment, the addon understands 32 phrases (in the future, this list will increase).
